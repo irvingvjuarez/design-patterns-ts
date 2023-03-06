@@ -1,5 +1,7 @@
 # Design Patterns with TypeScript
 
+<img src="https://openailabsprodscus.blob.core.windows.net/private/user-MW0e8fPTCZh5FhyUmA73yLaT/generations/generation-oxU7tqHbNItisVrvYvLaniCR/image.webp?st=2023-03-06T03%3A22%3A59Z&se=2023-03-06T05%3A20%3A59Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/webp&skoid=15f0b47b-a152-4599-9e98-9cb4a58269f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-03-05T23%3A21%3A28Z&ske=2023-03-12T23%3A21%3A28Z&sks=b&skv=2021-08-06&sig=MV3f6ymzBFghbhrHMacVLc6K5pKKDWQTg8DgnRGRCoc%3D" width="500"/>
+
 A design pattern is a general reusable solution to a common problem that occurs in software design. It is a template that describes how to solve a particular problem that can be adapted to fit various situations.
 
 Design patterns are usually created to address specific problems in software development and provide a standard solution that can be used across different programming languages and frameworks. They are not actual code but rather a conceptual framework or approach that helps developers organize and structure their code in a more efficient and scalable way.
