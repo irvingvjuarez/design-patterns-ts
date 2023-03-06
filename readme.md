@@ -16,6 +16,16 @@ In order to follow up with this repo, you would like to have a strong knowledge 
 - Object Oriented Programming
 - Software development in general
 
+# Installation
+
+1. Fork this repo
+2. Clone this repo: `git clone [your forked repo]` in a local environment
+3. Initialize npm: `npm init -y`
+4. Install all the necessary dependencies: `npm install`
+5. Run the file you need with the command start. For example: `npm run start -- creational/factory/non-example.ts`
+
+The two hypens means that a param will be added next, which will be the path of the file you are gonna run
+
 ## Index
 
 Along this repo, we are going to discover the most common design patterns, their use cases and examples written in TypeScript.
