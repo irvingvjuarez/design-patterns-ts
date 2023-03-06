@@ -1,0 +1,26 @@
+{
+  "name": "design-patterns-ts",
+  "version": "1.0.0",
+  "description": "A design pattern is a general reusable solution to a common problem that occurs in software design. It is a template that describes how to solve a particular problem that can be adapted to fit various situations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"start": "ts-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irvingvjuarez/design-patterns-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irvingvjuarez/design-patterns-ts/issues"
+  },
+  "homepage": "https://github.com/irvingvjuarez/design-patterns-ts#readme",
+  "dependencies": {
+    "@types/node": "^18.14.6",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
+  }
+}
